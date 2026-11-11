@@ -4,7 +4,7 @@ Progetto di Intelligenza Artificiale Distribuita. Quattro ATM (processi separati
 saldo bancario condiviso. La mutua esclusione è garantita **solo** dall'algoritmo Token Ring; in più il sistema
 tollera il crash di un nodo e la perdita del token (rigenerazione).
 
-- **Repository GitHub:** DA_INSERIRE
+- **Repository GitHub:** https://github.com/giovannicampo-SanRaffa/bancaRing
 - **Video dimostrativo:** DA_INSERIRE
 
 ## 1. Istruzioni di esecuzione
